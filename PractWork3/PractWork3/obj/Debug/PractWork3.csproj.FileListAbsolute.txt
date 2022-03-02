@@ -1,0 +1,5 @@
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork3\bin\Debug\PractWork3.exe.config
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork3\bin\Debug\PractWork3.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork3\bin\Debug\PractWork3.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork3\obj\Debug\PractWork3.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork3\obj\Debug\PractWork3.pdb

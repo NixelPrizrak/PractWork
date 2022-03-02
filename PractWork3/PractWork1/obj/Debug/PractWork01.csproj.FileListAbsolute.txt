@@ -1,0 +1,17 @@
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Temp\ПКС-81\Новая папка\PractWork1\WindowsFormsApplication1\obj\Debug\PractWork01.csproj.GenerateResource.Cache
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\obj\Debug\WindowsFormsApplication1.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\bin\Debug\WindowsFormsApplication1.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\obj\Debug\PractWork01.csprojResolveAssemblyReference.cache
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\obj\Debug\WindowsFormsApplication1.MainForm.resources
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork1\obj\Debug\PractWork01.csproj.GenerateResource.Cache

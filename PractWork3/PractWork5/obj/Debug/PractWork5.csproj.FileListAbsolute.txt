@@ -1,0 +1,6 @@
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork5\bin\Debug\PractWork5.exe.config
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork5\bin\Debug\PractWork5.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork5\bin\Debug\PractWork5.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork5\obj\Debug\PractWork5.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork5\obj\Debug\PractWork5.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork5\obj\Debug\PractWork5.csprojResolveAssemblyReference.cache

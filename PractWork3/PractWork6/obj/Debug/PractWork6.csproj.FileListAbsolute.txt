@@ -1,0 +1,9 @@
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\bin\Debug\PractWork6.exe.config
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\bin\Debug\PractWork6.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\bin\Debug\PractWork6.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\obj\Debug\PractWork6.Form1.resources
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\obj\Debug\PractWork6.Properties.Resources.resources
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\obj\Debug\PractWork6.csproj.GenerateResource.Cache
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\obj\Debug\PractWork6.exe
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\obj\Debug\PractWork6.pdb
+C:\Temp\ПКС-81\Новая папка\PractWork3\PractWork6\obj\Debug\PractWork6.csprojResolveAssemblyReference.cache
